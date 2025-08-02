@@ -69,3 +69,8 @@ Agile sprint execution and requirement gathering
 
 ## OUTPUT ##
 
+<img width="951" height="533" alt="Image" src="https://github.com/user-attachments/assets/98bf969d-a3ae-479d-bb4c-544aeb4d1843" />
+<img width="940" height="476" alt="Image" src="https://github.com/user-attachments/assets/f8d68c10-8aa8-45cf-9b54-64885875c8c9" />
+<img width="995" height="700" alt="Image" src="https://github.com/user-attachments/assets/c882f0f1-7433-4458-9335-31eb92bc2871" />
+<img width="1586" height="688" alt="Image" src="https://github.com/user-attachments/assets/22ad9740-64b1-414a-8f5c-1ce68ffab632" />
+
